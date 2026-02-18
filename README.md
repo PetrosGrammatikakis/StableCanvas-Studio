@@ -5,7 +5,7 @@
 ---
 ## Project Timeline
 
-- **Created:** Fall 2024
+- **Created:** Autumn 2024
 
 ## Features
 
