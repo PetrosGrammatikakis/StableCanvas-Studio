@@ -32,10 +32,9 @@
 - **All generated images are saved inside** :generated_images/
 
 - **File names are automatically generated based on**
-  
- - Scene index
- - Image index
- - Method
- - Timestamp
- - Seed
+   - Scene index
+   - Image index
+   - Method
+   - Timestamp
+   - Seed
 
