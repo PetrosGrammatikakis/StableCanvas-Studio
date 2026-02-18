@@ -27,13 +27,12 @@
   - Resize and manage outputs automatically in `generated_images/` folder.
 
 ---
--*All generated images are saved inside:
-    -generated_images/
+-**All generated images are saved inside:generated_images/
 
--*File names are automatically generated based on:
--Scene index
--Image index
--Method
--Timestamp
--Seed
+-**File names are automatically generated based on:
+ -Scene index
+ -Image index
+ -Method
+ -Timestamp
+ -Seed
 
