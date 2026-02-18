@@ -41,3 +41,11 @@
    - Timestamp
    - Seed
 
+## Dependencies
+
+Make sure you have Python 3.11 installed. Then install required packages:
+
+```bash
+python -m pip install --upgrade pip
+python -m pip install Pillow requests
+
