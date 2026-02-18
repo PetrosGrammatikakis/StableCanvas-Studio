@@ -28,9 +28,9 @@
 
 ---
 ## Save Files
--** All generated images are saved inside:generated_images/
+- **All generated images are saved inside:generated_images/
 
--** File names are automatically generated based on:
+- **File names are automatically generated based on:
  - Scene index
  - Image index
  - Method
