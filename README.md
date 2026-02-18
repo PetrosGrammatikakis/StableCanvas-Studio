@@ -27,6 +27,7 @@
   - Resize and manage outputs automatically in `generated_images/` folder.
 
 ---
+##Save Files
 -**All generated images are saved inside:generated_images/
 
 -**File names are automatically generated based on:
