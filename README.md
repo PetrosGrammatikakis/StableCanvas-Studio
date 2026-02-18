@@ -3,6 +3,9 @@
 **StableCanvas Studio** is a desktop GUI application built with **Python (Tkinter)** that leverages the **Stability AI API** for advanced image generation. It supports multiple generation modes, including text-to-image, image-to-image, structural guidance, and outpainting. The app also features **JSON-based scene management** for organized prompt workflows, making it ideal for structured creative projects and portfolio demonstrations.
 
 ---
+## Project Timeline
+
+- **Created:** Fall 2024
 
 ## Features
 
